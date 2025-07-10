@@ -1,6 +1,10 @@
+#  all the basic of the python 
+
+
 # choco = ["candy","burfy","icecream"]
 # choco.sort(reverse= True)
 # print(choco)
+
 
 
 # choco1 = "candy"
